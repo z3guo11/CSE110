@@ -1,4 +1,5 @@
-!(https://theartwolf.com/wp-content/uploads/2021/05/Yang-Yongliang-view-of-tide-1.jpg)
+![This is an image](https://theartwolf.com/wp-content/uploads/2021/05/Yang-Yongliang-view-of-tide-1.jpg)
+
 #User Page
 My name is Zehua Guo. I am a senior Math-CS major student in the UCSD. My favorite coding language is
 >python
